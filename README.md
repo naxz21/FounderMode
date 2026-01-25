@@ -10,11 +10,12 @@
 ![Build](https://img.shields.io/badge/build-React%20%7C%20Vite%20%7C%20Tailwind-cyan.svg)
 ![Status](https://img.shields.io/badge/status-Public%20Beta-emerald.svg)
 
-[**Live Demo**](#) · [**Report Bug**](../../issues) · [**Request Feature**](../../issues)
+[**Live Demo**](https://github-foundermode-empire-86261495453.us-west1.run.app/) · [**Report Bug**](../../issues) · [**Request Feature**](../../issues)
 
 </div>
 
 ---
+<img width="3414" height="1744" alt="image" src="https://github.com/user-attachments/assets/27a743b4-6a1c-4a37-be60-fd5adf91330d" />
 
 ## ⚡ Introduction / 介绍
 
